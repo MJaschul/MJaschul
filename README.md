@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MJay
-- 👀 I’m interested in projects in the area of robotics with support of AI, control theory 
-- 🌱 I’m currently working on the LEGO EV3 to realize some fun coding projects in my free time
+- 👀 I’m interested in projects in the area of robotics with support of AI, control theory, embedded programming
+- 🌱 Currently iam working on a embedded project to play sounds with on a TI MSP430FR5994
 
 <!---
 MJaschul/MJaschul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
